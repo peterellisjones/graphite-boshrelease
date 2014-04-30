@@ -1,0 +1,6 @@
+---
+name: graphite-web
+dependencies:
+- python27
+files:
+- graphite-web/graphite-web-0.9.10.tar.gz
